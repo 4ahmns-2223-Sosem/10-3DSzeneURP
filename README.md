@@ -2,7 +2,7 @@
 
 **Beschreibung:**
 + 3D-Szene für ein gemeinsames Schulprojekt 
-+ In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eigesammelt hat desto besser.
++ In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
 
 **Entwicklungsplattform:**
 + Windows 10
