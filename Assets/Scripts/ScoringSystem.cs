@@ -2,19 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class ScoringSystem : MonoBehaviour
 {
-    public GameObject scoreText;
+    public TMP_Text scoreText;
     public static int theScore;
-    public GameObject yourScoreText;
+    public TMP_Text yourScoreText;
     public static int yourScore;
 
 
 
     void Update()
     {
-        scoreText.GetComponent<Text>().text = "SCORE: " + theScore;
-        yourScoreText.GetComponent<Text>().text = "Your Score: " + theScore;
+        scoreText.GetComponent<TMP_Text>().text = "SCORE: " + theScore;
+        yourScoreText.GetComponent<TMP_Text>().text = "Your Score: " + theScore;
     }
 }
