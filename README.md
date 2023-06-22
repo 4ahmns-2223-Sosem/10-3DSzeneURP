@@ -7,7 +7,7 @@ c# 10-3DSzeneURP-CSchrofner
 
 ### Problems and Fixes
 + Es gab Probleme beim hochladen des Projektes auf GitHub und daher ist das Projekt dort vermutlich fehlerhaft. Das Backup Projekt befindet sich in Teams (Privatchat).
-+ Es muss in Unity 4K UHD ausgewählt werden um das Game in richtigem Layout zu spielen
++ Es muss in Unity 4K UHD ausgewählt werden um das Game richtig darzustellen.
 + Falls das Wasser Pink ist muss folgendes gemacht werden: https://www.youtube.com/watch?v=rtZcuAPJVwo
 
 ### Entwicklungsplattform: 
