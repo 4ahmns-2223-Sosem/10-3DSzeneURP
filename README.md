@@ -1,5 +1,3 @@
-![Screenshot (339)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/23f06d62-c25d-48c2-9763-8afcb2bc3c75)
-![Screenshot (338)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/a3560d30-964f-4c3f-8d45-27b7205f9289)
 c# 10-3DSzeneURP-CSchrofner
 
 ### Projektbeschreibung: 
