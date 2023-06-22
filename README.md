@@ -28,7 +28,7 @@ c# 10-3DSzeneURP-CSchrofner
 ### Anforderungsliste
 Syntaktische Elemente:
 + **Methodendeklaration** -> Bsp. "CollectBottle" Zeile 8
-+ **Methodenaufruf** -> Bsp. "DestroyAfterTime" Zeile 9
++ **Methodenaufruf** -> Bsp. "CollectSound" Zeile 19
 + **For Loop** -> Bsp. "SpawnBottles" Zeile 22
 + **If/Else** -> Bsp. "Counter" Zeile 32
 
