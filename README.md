@@ -26,8 +26,8 @@ Font: https://fonts.google.com/specimen/Montserrat
 
 ### Anforderungsliste
 Syntaktische Elemente:
-**Methodendeklaration** -> Bsp. "CollectBottle" Zeile 8
-**Methodenaufruf** -> Bsp. "DestroyAfterTime" Zeile 9
-**For Loop** -> Bsp. "SpawnBottles" Zeile 22
-**If/Else** -> Bsp. "Counter" Zeile 27
++**Methodendeklaration** -> Bsp. "CollectBottle" Zeile 8
++**Methodenaufruf** -> Bsp. "DestroyAfterTime" Zeile 9
++**For Loop** -> Bsp. "SpawnBottles" Zeile 22
++**If/Else** -> Bsp. "Counter" Zeile 27
 
