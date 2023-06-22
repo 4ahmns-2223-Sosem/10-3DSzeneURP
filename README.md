@@ -24,7 +24,12 @@ c# 10-3DSzeneURP-CSchrofner
 + Unity 2020.3.18f1
 
 ### Visuelle Einblicke in das Projekt: 
+![Screenshot(1)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/df222b5e-5bb7-4505-b614-6dcad2d1dcaf)
+![Screenshot(2)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/92cbd5d1-a049-47e0-a45c-9abefe70ce84)
+![Screenshot(3)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/ebca9bfb-7656-4118-a853-8fe0809abbc0)
+![Screenshot(4)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/70a7cf79-d40f-42db-8a9a-1430907be856)
 
+**Videoeinblick:** Siehe Teams: 4ahmns-SoSem-2223-PREPMEES -> Dateien -> Videos-Endabgabe -> 10_CSchrofner_FinalGameplay
 
 ### Drittmaterial: 
 + **Background music:** https://www.youtube.com/watch?v=YIVUPknhUWs&list=LL&index=63
