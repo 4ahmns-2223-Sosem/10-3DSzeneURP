@@ -7,11 +7,11 @@ c# 10-3DSzeneURP-CSchrofner
 ### Entwicklungsplattform: 
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
-**Einbindung in VR**
+### Einbindung in VR:
 + Maus bewegen um Fahrtrichtung zu ändern -> In VR sollte die Fahrtrichtung durch das Bewegen des Kopfes geändert werden.
 + Springt am Ende des Spieles in eine Testszene -> soll am Ende des Spieles zurück zur Hauptszene gehen
 
-**Entwicklungsplattform:**
+### Entwicklungsplattform:
 + Windows 10
 + Visual Studio 2019
 + Unity 2020.3.18f1
