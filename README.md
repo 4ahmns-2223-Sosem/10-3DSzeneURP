@@ -6,8 +6,8 @@ c# 10-3DSzeneURP-CSchrofner
 + In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
 
 ### Problems and Fixes
-+ Es muss in Unity 4KUHD ausgewählt werden um das Game in richtigem Layout zu spielen;
-+ Backup Projekt befindet sich in Teams falls die Github Version nicht funktionieren sollte
++ Es gab Probleme beim hochladen des Projektes auf GitHub und daher ist das Projekt dort vermutlich fehlerhaft. Das Backup Projekt befindet sich in Teams (Privatchat).
++ Es muss in Unity 4KUHD ausgewählt werden um das Game in richtigem Layout zu spielen
 + Falls das Wasser Pink ist muss folgendes gemacht werden: https://www.youtube.com/watch?v=rtZcuAPJVwo
 
 ### Entwicklungsplattform: 
