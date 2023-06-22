@@ -2,7 +2,7 @@
 c# 10-3DSzeneURP-CSchrofner
 
 ### Projektbeschreibung: 
-+Thema: Klima und Energie
++ Thema: Klima und Energie
 + In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat 150 Sekunden Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser. Es gibt auch verschiedene Arten von Flaschen welche alle verschiedene Punkte geben.
 
 ### Problems and Fixes
