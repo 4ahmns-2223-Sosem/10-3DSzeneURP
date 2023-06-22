@@ -5,7 +5,7 @@ c# 10-3DSzeneURP-CSchrofner
 + 3D-Szene für ein gemeinsames Schulprojekt 
 + In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
 
-Es muss in Unity 4KUHD ausgewählt werden
+Es muss in Unity 4KUHD ausgewählt werden um das Game in richtigem Layout zu spielen;
 Backup Projekt befindet sich in Teams
 
 ### Entwicklungsplattform: 
