@@ -20,9 +20,9 @@ Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 
 ### Drittmaterial: 
-Background music: https://www.youtube.com/watch?v=YIVUPknhUWs&list=LL&index=63
-Sounds: https://freesound.org/
-Font: https://fonts.google.com/specimen/Montserrat
++ **Background music:** https://www.youtube.com/watch?v=YIVUPknhUWs&list=LL&index=63
++ **Sounds:** https://freesound.org/
++ **Font:** https://fonts.google.com/specimen/Montserrat
 
 ### Anforderungsliste
 Syntaktische Elemente:
