@@ -5,8 +5,10 @@ c# 10-3DSzeneURP-CSchrofner
 + 3D-Szene für ein gemeinsames Schulprojekt 
 + In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
 
-Es muss in Unity 4KUHD ausgewählt werden um das Game in richtigem Layout zu spielen;
-Backup Projekt befindet sich in Teams
+### Problems and Fixes
++ Es muss in Unity 4KUHD ausgewählt werden um das Game in richtigem Layout zu spielen;
++ Backup Projekt befindet sich in Teams falls die Github Version nicht funktionieren sollte
++ Falls das Wasser Pink ist muss folgendes gemacht werden: https://www.youtube.com/watch?v=rtZcuAPJVwo
 
 ### Entwicklungsplattform: 
 + Windows 10, Unity 2020.3.18f1
@@ -22,10 +24,7 @@ Backup Projekt befindet sich in Teams
 + Unity 2020.3.18f1
 
 ### Visuelle Einblicke in das Projekt: 
-![Uploading Screenshot (337).png…]()
-![Uploading Screenshot (334).png…]()
-![Screenshot (339)](https://github.com/4ahmns-2223-Sosem/10-3DSzeneURP-CSchrofner/assets/91070191/d5dd3422-a519-4c78-a0bb-c6e8d051281a)
-![Uploading Screenshot (338).png…]()
+
 
 ### Drittmaterial: 
 + **Background music:** https://www.youtube.com/watch?v=YIVUPknhUWs&list=LL&index=63
