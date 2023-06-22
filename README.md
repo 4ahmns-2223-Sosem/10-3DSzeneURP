@@ -3,7 +3,7 @@ c# 10-3DSzeneURP-CSchrofner
 
 ### Projektbeschreibung: 
 + 3D-Szene für ein gemeinsames Schulprojekt 
-+ In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
++ In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine 150 Sekunden Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser. Es gibt auch verschiedene Arten von Flaschen welche alle verschiedene Punkte geben.
 
 ### Problems and Fixes
 + Es gab Probleme beim hochladen des Projektes auf GitHub und daher ist das Projekt dort vermutlich fehlerhaft. Das Backup Projekt befindet sich in Teams (Privatchat).
