@@ -35,7 +35,8 @@ c# 10-3DSzeneURP-CSchrofner
 + **Background music:** https://www.youtube.com/watch?v=YIVUPknhUWs&list=LL&index=63
 + **Sounds:** https://freesound.org/
 + **Font:** https://fonts.google.com/specimen/Montserrat
-
++ **Wasserassets:**
+ https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449
 ### Anforderungsliste
 Syntaktische Elemente:
 + **Methodendeklaration** -> Bsp. "CollectBottle" Zeile 8
