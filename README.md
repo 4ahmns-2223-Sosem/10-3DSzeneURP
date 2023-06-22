@@ -6,6 +6,7 @@ c# 10-3DSzeneURP-CSchrofner
 + In meinem VR Game kann man ein Schiff steuern und Flaschen sammeln die im Meer schwimmen. Man hat eine Minute Zeit so viele Flaschen wie möglich zu sammeln. Umso mehr Flaschen man in der Minute eingesammelt hat desto besser.
 
 Es muss in Unity 4KUHD ausgewählt werden
+Backup Projekt befindet sich in Teams
 
 ### Entwicklungsplattform: 
 + Windows 10, Unity 2020.3.18f1
